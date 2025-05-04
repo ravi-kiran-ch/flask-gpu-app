@@ -1,5 +1,5 @@
 # Install necessary packages
-!pip install -q flask pyngrok diffusers transformers accelerate
+#!pip install -q flask pyngrok diffusers transformers accelerate
 
 # Import required modules
 from flask import Flask, render_template_string, request
